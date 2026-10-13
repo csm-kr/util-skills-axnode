@@ -1,4 +1,4 @@
-# pwc-skills
+# util-skills-axnode
 
 Claude Code skills for Samil PwC internal work.
 
